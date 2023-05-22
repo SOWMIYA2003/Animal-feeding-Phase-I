@@ -22,7 +22,7 @@ To develop Animal feeding game-Phase-1 using unity.
 
 ## Program:
 ### PlayerController
-    ```
+```
 using System.Collections;
 using System.Collections.Generic;
 using System.Collections.Specialized;
@@ -61,7 +61,7 @@ public class PlayerController : MonoBehaviour
         }
     }
 }
-    ```
+```
 ### MoveForward
 ```
 using System.Collections;
